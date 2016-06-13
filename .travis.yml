@@ -1,0 +1,18 @@
+language: node_js
+node_js: node
+dist: trusty
+sudo: false
+
+addons:
+ apt:
+  sources:
+   - sourceline: 'ppa:n-muench/calibre2'
+  packages:
+   - calibre
+
+script:
+ - npm run build
+
+before_deploy: 
+- git fetch --tags
+- npm run zip

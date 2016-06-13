@@ -5,6 +5,7 @@
     "main": "index.js",
     "scripts": {
 	"test": "echo \"Error: no test specified\" && exit 1",
+	"clean": "git clean -Xfd",
 	"postinstall": "gitbook init",
 	"build": "node script/makesummary.js && gitbook pdf ./ relazione.pdf",
 	"zip": "./script/makezip.sh",

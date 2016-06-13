@@ -6,7 +6,7 @@
     "scripts": {
 	"test": "echo \"Error: no test specified\" && exit 1",
 	"postinstall": "gitbook init",
-	"build": "gitbook pdf ./ relazione.pdf",
+	"build": "node script/makesummary.js && gitbook pdf ./ relazione.pdf",
 	"zip": "./script/makezip.sh",
 	"start": "gitbook serve"
     },

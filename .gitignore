@@ -1,9 +1,14 @@
 # Emacs trash
 *.*~
 *#*#*
+*.#*
+
+# Log
+*.log
 
 # Node modules
 node_modules/
 
 # Pdf generated
 *.pdf
+

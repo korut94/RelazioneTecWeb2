@@ -1,5 +1,6 @@
 # Emacs trash
 *.*~
+*~
 *#*#*
 *.#*
 
@@ -9,6 +10,9 @@
 # Node modules
 node_modules/
 
-# Pdf generated
+# Relation publish
 *.pdf
+*.zip
 
+# Gitbook
+_book/

@@ -3,7 +3,7 @@
 #Author: Andrea Mantovani
 #License: MIT
 
-OUTPUT_NAME="TecWeb2Project"
+OUTPUT_NAME="relazione"
 
 mkdir ${OUTPUT_NAME}/; \
     mkdir ${OUTPUT_NAME}/Immagini; \

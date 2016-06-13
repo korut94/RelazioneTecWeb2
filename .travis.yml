@@ -1,11 +1,18 @@
 language: node_js
 node_js: node
 dist: trusty
-
 script:
- - sudo -v && wget -nv -O- https://raw.githubusercontent.com/kovidgoyal/calibre/master/setup/linux-installer.py | sudo python -c "import sys; main=lambda:sys.stderr.write('Download failed\n'); exec(sys.stdin.read()); main()"
- - npm run build
-
-before_deploy: 
+- sudo -v && wget -nv -O- https://raw.githubusercontent.com/kovidgoyal/calibre/master/setup/linux-installer.py
+  | sudo python -c "import sys; main=lambda:sys.stderr.write('Download failed\n');
+  exec(sys.stdin.read()); main()"
+- npm run build
+before_deploy:
 - git fetch --tags
 - npm run zip
+deploy:
+  provider: releases
+  api_key:
+    secure: IivbM35TiuNKevM2WuuoadF9cIaTNkawYop7hY4GdVfoEw60/7xfD8mAJx4r4kbyWQIr6AqTBpBINpNNiURrXWXGDX+AMFi8oNZQsoAzCpRkinZRpE2eBIVnVMyblMyFIi9U0lEgKTnAVT0NYt6qVEtxRVM8IuPpdgpsyHtx6sl+dHVSb5huhUeTwRxQKwh67Lv260CbS1OoyoIthwkWvycoNcJFyIpW3ZfT9c6HvQqUDnR9JM3PDRq6x1EdWH+MjVwWFwCF5KSSpgWof2TZ/O3peNQf5XYTLEOmVgAxjrKqdilL+QDpiT3e55P2XH4yPVYLBCz+xvymtHUDNwsHPFfIbsxg2zUOleEOF7H/BCloZh7hfbgGc2joHD7r9pKRhRMJ+Uyn6vKKeaiZY33fmPyVzDOZ/2IDoq5KsektseADMWaqYd6Jb8TpW6ax6on0C1kXlDZRZb7CAkRAbf2BLvIRPghsqZA2uJ+oYVJMUHdXEn+Iq4zv0yOW4rAGTKg6Sb7ydIe0NsZ6o808BE5uUthtw6Il5poz48TqtMVHmJXZV+C6lU1sqcEGSV+T2kroT4x9vgpPgZCUUoU6qqKQad7mSHCvrgodWFXKEGbKdPNJYMZj0b4xvU3T6f4AlwDP3nNX4HcR/J2QJqCSg9TioxMQzWTAax1NoRFZHzB9lwE=
+  file: relazione.pdf
+  on:
+    repo: korut94/RelazioneTecWeb2

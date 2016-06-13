@@ -1,26 +1,26 @@
 {
-  "name": "relazionetecweb2",
-  "version": "1.0.0",
-  "description": "Progetto didattico per il corso Tecweb 2",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/korut94/RelazioneTecWeb2.git"
-  },
-  "keywords": [
-    "Relazione",
-    "tecweb"
-  ],
-  "author": "Andrea Mantovani",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/korut94/RelazioneTecWeb2/issues"
-  },
-  "homepage": "https://github.com/korut94/RelazioneTecWeb2#readme",
-  "dependencies": {
-    "markdown-pdf": "^7.0.0"
-  }
+    "name": "relazionetecweb2",
+    "version": "1.0.0",
+    "description": "Relazione per progetto didattico analisi sito",
+    "main": "index.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"postinstall": "gitbook init",
+	"build": "node script/makesummary.js && gitbook pdf ./ relazione.pdf",
+	"zip": "./script/makezip.sh",
+	"start": "gitbook serve"
+    },
+    "repository": {
+	"type": "git",
+	"url": "git+https://github.com/korut94/RelazioneTecWeb2.git"
+    },
+    "author": "Andrea Mantovani",
+    "license": "MIT",
+    "bugs": {
+	"url": "https://github.com/korut94/RelazioneTecWeb2/issues"
+    },
+    "homepage": "https://github.com/korut94/RelazioneTecWeb2#readme",
+    "dependencies": {
+	"gitbook-cli": "^2.2.0"
+    }
 }

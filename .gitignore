@@ -13,6 +13,7 @@ node_modules/
 # Relation publish
 *.pdf
 *.zip
+relazione/
 
 # Gitbook
 _book/

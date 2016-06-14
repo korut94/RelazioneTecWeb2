@@ -23,7 +23,7 @@ storia e le caratteristiche del linguaggio.
 Da come si può dedurre, il tipo di utenza è di programmatori con qualsiasi 
 livello d'esperienza. Di conseguenza il sito è studiato per essere minimalista,
 lasciando spazio ai contenuti fruibili per qualsiasi visitatore che abbia 
-svolto un corso **base** di programmazione in C/C++.
+svolto un **corso base** di programmazione in C/C++.
 
 Data la divisione del sito in due anime ben distinte: **tecnica** 
 con reference e **sociale** attraverso il forum ed i vari articoli; mi

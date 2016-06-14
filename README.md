@@ -56,5 +56,3 @@ al lettore.
 Salterò le sezioni *Tutorial* ed *Information* in quanto, per me, non sono 
 elementi di spicco che influenzano la valutazione finale.
 
-
-

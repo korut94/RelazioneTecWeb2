@@ -56,3 +56,8 @@ al lettore.
 Salterò le sezioni *Tutorial* ed *Information* in quanto, per me, non sono 
 elementi di spicco che influenzano la valutazione finale.
 
+### Licenza
+Quest'opera è distribuita con Licenza [Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+![Licenza Creative Commons](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)

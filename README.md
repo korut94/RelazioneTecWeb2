@@ -15,7 +15,7 @@ organizzazione internazionale **ISO**; perciò all'interno troviamo il
 multithreading, oltre al sottoinsieme di librerie C portate all'interno dello 
 standard.
 
-Tuttuavia il reference non è l'unico servizio offerto dal sito. Infatti 
+Tuttavia il reference non è l'unico servizio offerto dal sito. Infatti 
 vi sono una sezione: *Tutorial*, *Articles*, *Forum* ed *Information* con la
 storia e le caratteristiche del linguaggio.
 
@@ -31,7 +31,7 @@ attendo tempi di permanenza o *stretti*, nel caso di ricerca sul reference, e
 *laschi*, nel momento in cui l'utente si dedica alla lettura degli articoli o le
 attività del forum.
 
-Riassumento, l'utenza è si **specializzata** ma le esigenze richieste non sono 
+Riassumendo, l'utenza è si **specializzata** ma le esigenze richieste non sono 
 **omogenee**.
 
 ## Valutazione
@@ -44,7 +44,7 @@ elementi (es. il testo) coinvolgono più parti ma è più semplice ragionarci, e
 conseguenza valutarli, se trattati in un unico posto.
 
 Successivamente entrerò nelle sezioni interne valutando i relativi servizi, in
-paticolare:
+particolare:
 
 la sezione d'analisi del *Reference* sarà incentrata sugli
 aspetti riguardante la ricerca dell'informazione e la navigazione interna; 

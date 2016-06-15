@@ -1,7 +1,7 @@
 # Introduzione
 Questo documento ha lo scopo di riportare l'analisi compiuta sul sito
-[cplusplus.com](http://www.cplusplus.com/), in data 06-2016, condotta dallo
-studente *Andrea Mantovani*.
+[cplusplus.com](http://www.cplusplus.com/) condotta dallo studente *Andrea 
+Mantovani*.
 
 In questa sezione esporrò un breve riassunto dei servizi offerti da 
 **cpluscplus.com**, la tipologia dei visitatori ed i punti dove andrò a 

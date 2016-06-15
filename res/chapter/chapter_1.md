@@ -30,17 +30,16 @@ garantendo una maggior velocità di ritrovamento del contenuto interessate.
 Blocchi compatti impedisco la creazione di assiociazioni e perciò la ricerca 
 risulterà più lenta e faticosa.
 
-### Parametri di valutazione
-In primo luogo si valuterà se il formato e l'uso del testo scelto per l'intero
-sito è studiato per assicurare una facile lettura. Successivamente saranno
-valutate le sezione *Reference* ed *Articles* osservando se il testo ha una
-disposizione intelligente da sfruttare la fase di "scanning" per diminuire i
-tempi di ricerca; soprattuto nel reference dove questo bisogno è maggiormente 
-sentito.
+### Aspettative
+Data la natura semplicista del sito il testo dovrà avere un solo tipo di font,
+evitando l'uso del testo come **decorazione** diminuendo la leggibilità. 
+Inoltre, vista la presenza di una sezione articoli e forum **pubblica**, è 
+necessario scegliere con cura la grandezza del testo e tipo di font per 
+evitare la creazione di pagine molto faticose da leggere, sopratutto in caso di 
+un'**alta densità** di parole in blocchi compatti.
 
 ### Analisi
-
-Il font scelto è il **verdana**, altamente leggibile, di dimensioni di 12pt, 
+Il font scelto è il **Verdana**, altamente leggibile, di dimensioni di 12pt, 
 vicini al limite minimo dei 10pt. La resa complessiva è **discreta**; con un
 ingrandimento del testo, di uno due punti, avrebbe reso di più e migliorato la
 lettura dei blocchi di testo.
@@ -56,12 +55,24 @@ ottenendo il massimo del contrasto.
 Elementi molto ben fatti sono gli *snippet* del codice, come quello in figura
 sotto.
 
-![Snippet](../img/snippet.png "http://www.cplusplus.com/articles/jT07M4Gy/")
+![http://www.cplusplus.com/articles/jT07M4Gy/](../img/snippet.png 
+"Snippet codice C/C++ di cplusplus.com")
 
 Molto utili a chiunque si imbarchi in questo genere di letture; queste aree
 dove vengono renderizzati spezzoni di comandi in C/C++ sono **ottimi**: 
-non presentano problemi di dimensione del testo, usano sempre il font verdana, 
+non presentano problemi di dimensione del testo, usano sempre il font Verdana, 
 hanno un buon contrasto con lo sfondo, ed infine, l'evidenziazione automatica 
 del tipo di codice (variabile, commento, letterale, ...) ed il numero di riga 
 in fianco a sinistra garantiscono altissima usabilità.
+
+### Conclusione
+Dall'analisi è emerso un problema per quanto riguarda la dimensione del font 
+che causerà una **probabile diminuzione** d'efficacia della *mappa mentale*, 
+prodotta dall'utente nella fase di "scanning" del sito, ed uno sforzo superiore
+durante la lettura. Con l'inserimento di un menu per la modifica del carattere
+si sarebbero potuto evitare questo problema.
+
+Per il resto soddisfa le aspettative, scegliendo un font unico ad alta 
+leggibilità e mantenendo un ottimo contrasto su tutte le pagine.
+
 

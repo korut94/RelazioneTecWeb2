@@ -30,10 +30,38 @@ garantendo una maggior velocità di ritrovamento del contenuto interessate.
 Blocchi compatti impedisco la creazione di assiociazioni e perciò la ricerca 
 risulterà più lenta e faticosa.
 
-### Aspettative
-Saranno valutate la sezione *Reference* ed *Articles* osservando se il testo è
-studiato per assicurare una facile lettura ed avere una disposizione 
-intelligente da sfruttare la fase di "scanning" per diminuire i tempi di
-ricerca; soprattuto nel reference dove questo bisogno è maggiormente sentito.
+### Parametri di valutazione
+In primo luogo si valuterà se il formato e l'uso del testo scelto per l'intero
+sito è studiato per assicurare una facile lettura. Successivamente saranno
+valutate le sezione *Reference* ed *Articles* osservando se il testo ha una
+disposizione intelligente da sfruttare la fase di "scanning" per diminuire i
+tempi di ricerca; soprattuto nel reference dove questo bisogno è maggiormente 
+sentito.
 
+### Analisi
+
+Il font scelto è il **verdana**, altamente leggibile, di dimensioni di 12pt, 
+vicini al limite minimo dei 10pt. La resa complessiva è **discreta**; con un
+ingrandimento del testo, di uno due punti, avrebbe reso di più e migliorato la
+lettura dei blocchi di testo.
+
+**Non** è presente alcuna forma di selezione del font. L'assenza di modifica del
+tipo è accettabile, data la tipologia d'utenza; però un'opzione per l'
+ingrandimento del testo sarebbe dovuta essere presente, soprattuto in vista dei
+commenti fatti sopra. 
+
+Nel sito web i testi vengono sempre trascritti con colore nero su sfondo bianco,
+ottenendo il massimo del contrasto.
+
+Elementi molto ben fatti sono gli *snippet* del codice, come quello in figura
+sotto.
+
+![Snippet](../img/snippet.png "http://www.cplusplus.com/articles/jT07M4Gy/")
+
+Molto utili a chiunque si imbarchi in questo genere di letture; queste aree
+dove vengono renderizzati spezzoni di comandi in C/C++ sono **ottimi**: 
+non presentano problemi di dimensione del testo, usano sempre il font verdana, 
+hanno un buon contrasto con lo sfondo, ed infine, l'evidenziazione automatica 
+del tipo di codice (variabile, commento, letterale, ...) ed il numero di riga 
+in fianco a sinistra garantiscono altissima usabilità.
 

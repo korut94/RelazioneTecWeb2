@@ -72,7 +72,7 @@ prodotta dall'utente nella fase di "scanning" del sito, ed uno sforzo superiore
 durante la lettura. Con l'inserimento di un menu per la modifica del carattere
 si sarebbero potuto evitare questo problema.
 
-Per il resto soddisfa le aspettative, scegliendo un font unico ad alta 
+Per il resto **soddisfa** le aspettative, scegliendo un font unico ad alta 
 leggibilità e mantenendo un ottimo contrasto su tutte le pagine.
 
 ## Immagini
@@ -118,7 +118,7 @@ La seconda icona non è proprio chiaro cosa rappresenti e costringe l'utente
 a cliccarci sopra, sempre se la cliccherà, per capire cosa fa.
 
 ### Conclusione
-L'attenzione posta nelle immagini è **superficiale** Il risultato è un dettaglio
+L'attenzione posta nelle immagini è **superficiale**. Il risultato è un dettaglio
 grafico piacevole ma non utile. 
 
 Di fatto l'usabilità ne risente ma in minima parte dato il ruolo delle immagini

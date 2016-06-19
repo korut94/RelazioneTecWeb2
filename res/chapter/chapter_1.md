@@ -75,4 +75,54 @@ si sarebbero potuto evitare questo problema.
 Per il resto soddisfa le aspettative, scegliendo un font unico ad alta 
 leggibilità e mantenendo un ottimo contrasto su tutte le pagine.
 
+## Immagini
+### Premesse
+Le immagini sono da considera in secondo piano rispetto al testo però non sono
+da escludere. Infatti hanno un effetto attrattivo, nel caso di taglie maggiori 
+di 210x230 px, che invoglia l'utente a cliccarci sopra; perciò è sempre il 
+caso di inserire un evento corelato in caso di click.
+
+Un'altro aspetto è l'uso di immagini per dare informazioni. In quel caso 
+bisogna stare attenti ad non incombere in *metafore visive tradite*, ovvero
+quando l'utente è ingannato dall'aspetto grafico o rappresentano concetti
+non **immediatamente** intuibili.
+
+### Aspettative
+In quanto le immagini sono per la maggior parte presenti nella sezione 
+*Articles*, che ricordo essere pubblica, il contenuto non è sotto il controllo 
+degli sviluppatori. Tuttavia nulla vieta di inserire un comportamento di 
+default nel caso d'immagini superiori alla taglia 210x230 px, come ad esempio
+la visualizzazione a pieno schermo. 
+
+Le icone usate in varie parti del sito sono molto semplici e ben fatte, però
+bisogna verificare la loro effettivà chiarezza di significato.
+
+In ogni caso il giudizio sulla gestione delle immagini non peserà sulla 
+valutazione finale dato il loro ruolo marginale.
+
+### Valutazione
+Per quanto riguarda le immagini presenti nei testi, soprattutto nella sezione 
+*Articles*, non è risultato alcun evento corelato alla pressione del mouse.
+
+Invece è da segnalare due icone che causano l'effetto della *metafora visiva 
+tradita*: un'icona indica che un'eventuale funzionalità è stata introdotta
+con *C++11* e i vecchi compilatori potrebbero non supportarla; l'altra viene 
+usata nei menu sul lato destro per ordinare le voci presenti in ordine 
+alfabetico se cliccata.
+
+Nel primo caso l'icona appare come un triangolo giallo di attenzione con 
+affianco un'etichetta con scritto "C++11". Non è affatto chiaro il **concetto**
+che vuole esprimere, anzi, può portare a conclusioni errate.
+
+La seconda icona non è proprio chiaro cosa rappresenti e costringe l'utente
+a cliccarci sopra, sempre se la cliccherà, per capire cosa fa.
+
+### Conclusione
+L'attenzione posta nelle immagini è **superficiale** Il risultato è un dettaglio
+grafico piacevole ma non utile. 
+
+Di fatto l'usabilità ne risente ma in minima parte dato il ruolo delle immagini
+a semplice ornamento.
+
+
 

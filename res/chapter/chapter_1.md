@@ -124,5 +124,98 @@ grafico piacevole ma non utile.
 Di fatto l'usabilità ne risente ma in minima parte dato il ruolo delle immagini
 a semplice ornamento.
 
+## Navigabilità
+
+### Premesse
+In questa sezione analizzerò quelli che sono i *6 assi informativi* di una 
+pagina web, ovvero:
+* **Where**: indica a che tipo di sito siamo arrivati
+* **Who**: indica chi rappresenta il sito
+* **Why**: indica i benefici del sito, il motivo per il quale dovremmo 
+utilizzarlo
+* **What**: indice delle offerte del sito
+* **When**: indica le ultime novità presenti nel sito
+* **How**: indica come arrivare alle sezioni principali del sito
+
+concentrandomi principalmente sulla home page di **cplusplus.com**. Una pagina
+principale di qualità deve soddisfare tutti questi assi in modo da poter 
+soddisfare l'utente.
+
+### Aspettative
+Data la moltitudine di offerte che il sito offre è bene aspettarsi un asse
+**when** fornito: ultimi articoli inseriti, discussioni sui forum più seguite
+e cosi via. Gli assi **why**, **where** e **what** vanno ben definiti in modo
+da non lasciare l'utente smarrito e senza alcuna motivazione ad esplorare il 
+sito. **How** aiuta l'utente ad orientarsi, soprattutto se è la prima visita, e
+**who** è bene indicarlo per una fattore di *trust*.
+
+Interessante sarà vedere com'è implementata la barra ricerca che può dare un 
+sicuro valore aggiunto a questa tipologia di sito.
+
+Non mi aspetto problemi dal *back button* lasciando libero l'utente di tornare
+indetro da ogni pagina. 
+
+### Valutazione
+Parto dall'asse sicuramente meglio riuscito: il *what*. Come è possibile vedere
+dall'immagine dell'homepage del sito di **cplusplus.com**, nel riquadro centrale
+è possibile vedere la lista delle sezioni offerte con una relativa descrizione.
+
+Apro una parentesi sul layout. Ottima la scela di usare il tipo a griglia in
+modo da visualizzare l'intera pagina senza neccessità di scroll. E' da 
+sottolineare che cosi impone all'utente maggior sforzo, rispetto ad un layout
+a lista, ma l'eliminazione dello scroll verticale è sicuramente da preferire.
+
+Per quanto riguarda l'asse *where* il sito non propone nulla di immediato per
+comprendere l'argomento trattato. Ci sono i riquadri delle sezioni ma lo trovo
+troppo frammentato per essere un mezzo valido per comunicare la natura del sito.
+
+L'asse *why* è diciamo legato alle descrizione in ogni servizio, ma non vi sono
+mai rifirimenti espliciti ad effettivi vantaggi.
+
+Non è chiaro se il sito rappresenti un ente privato o un'organizzazione, quindi
+l'asse *who* non si può dire soddisfatto.
+
+Oltre ai link interni alle sezioni su ogni riquadro della scheda centrale, è 
+possibile usare il menu nel lato sinitro con i link a tutte le sezioni. In
+questo modo l'asse *how* è pienamente soddisfatto.
+
+![http://www.cplusplus.com/](../img/homepage.png "Home page di cplusplus.com")
+
+L'ultimo asse, *when*, è stato **completamente trascurato**. Non vi è presenza 
+ne nella homepage che nelle pagine interne di alcun sistema per ottenere le 
+novità del sito. Data la presenza di un **forum** ed una sezione **articoli**,
+oltre che del **reference**, non è trascurabile una mancanza di questo genere
+che ne consegue in una grossa perdità d'usabilità.
+
+Provando il bottone indietro del browser in varie pagine non sono apparsi casi 
+di comportamenti anomali assicurando un gradimento maggiore all'utente.
+
+Concludo con un'analisi sulla barra di ricerca. Come si può vedere in figura
+la presenza di **due** barre di ricerca nell'home page non può altro che 
+generare confusione. Provandole il risultato è identico:
+* se la keyword cercata fa parte delle voci nel *Reference* si viene subito
+  reindirizzati li;
+* se la keyword non è una voce del *Reference* appare la lista dei risultati
+  trovati;
+
+questo comportamento è utile ma non segue gli **standard** dei motori di 
+ricerca classici, creando una possibile frustrazione iniziale agli utenti.
+Per ovviare a questo problema viene inserito nella pagina in cui si è arrivati
+un link per tornare alla lista dei risultati del motore di ricerca. Tuttavia
+questa soluzione fa sprecare tempo e click per un'agevolazione non così gradita.
+
+Quando compare la lista dei risultati viene mostrato che il servizio di 
+ricerca usa il modulo che offre Google per i siti web. 
+
+Il sistema funziona egregiamente, per via della popolarità del sito, ma si
+può incombere nei problemi dell'uso di queste soluzioni a basso costo, come la
+non copertura totale delle pagine, soprattutto nelle sezioni al di fuori di
+*Reference* che sono meno cercate. Le opzioni di ricerca si limitano a 
+specifiare dove effettuarla: in tutto il sito; solo in *Reference*; solo in 
+*Forum* o solo in *Articles*.
+
+Il risultato della ricerca appare in forma di lista, come la pagina di Google, e
+quindi è familiare all'utente. Nel caso non vi fossero risultati appare una 
+striscia con la scritta *No Results*.
 
 

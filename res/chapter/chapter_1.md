@@ -187,35 +187,48 @@ novità del sito. Data la presenza di un **forum** ed una sezione **articoli**,
 oltre che del **reference**, non è trascurabile una mancanza di questo genere
 che ne consegue in una grossa perdità d'usabilità.
 
-Provando il bottone indietro del browser in varie pagine non sono apparsi casi 
-di comportamenti anomali assicurando un gradimento maggiore all'utente.
+Provando il bottone indietro del browser in varie pagine **non sono apparsi** 
+casi di comportamenti anomali assicurando un gradimento maggiore all'utente.
 
 Concludo con un'analisi sulla barra di ricerca. Come si può vedere in figura
 la presenza di **due** barre di ricerca nell'home page non può altro che 
-generare confusione. Provandole il risultato è identico:
+generare confusione. Provandole entrambe il risultato è identico:
 * se la keyword cercata fa parte delle voci nel *Reference* si viene subito
   reindirizzati li;
 * se la keyword non è una voce del *Reference* appare la lista dei risultati
   trovati;
 
-questo comportamento è utile ma non segue gli **standard** dei motori di 
-ricerca classici, creando una possibile frustrazione iniziale agli utenti.
-Per ovviare a questo problema viene inserito nella pagina in cui si è arrivati
-un link per tornare alla lista dei risultati del motore di ricerca. Tuttavia
-questa soluzione fa sprecare tempo e click per un'agevolazione non così gradita.
+questo comportamento è utile ma **non segue gli standard** dei motori di 
+ricerca classici, generando una frustrazione iniziale agli utenti.
+Come soluzione viene inserito, nella pagina in cui si è arrivati, un link per 
+tornare alla lista dei risultati del motore di ricerca. Tuttavia cosi si fa 
+sprecare tempo e click all'utente per un'agevolazione non richieta.
 
 Quando compare la lista dei risultati viene mostrato che il servizio di 
-ricerca usa il modulo che offre Google per i siti web. 
+ricerca usa il modulo offerto da Google per i siti web. 
 
-Il sistema funziona egregiamente, per via della popolarità del sito, ma si
+Il sistema funziona egregiamente, per via della popolarità del sito, ma
 può incombere nei problemi dell'uso di queste soluzioni a basso costo, come la
 non copertura totale delle pagine, soprattutto nelle sezioni al di fuori di
 *Reference* che sono meno cercate. Le opzioni di ricerca si limitano a 
 specifiare dove effettuarla: in tutto il sito; solo in *Reference*; solo in 
 *Forum* o solo in *Articles*.
 
-Il risultato della ricerca appare in forma di lista, come la pagina di Google, e
-quindi è familiare all'utente. Nel caso non vi fossero risultati appare una 
-striscia con la scritta *No Results*.
+Il risultato appare in forma di lista, come la pagina di Google, e
+quindi è familiare all'utente. Nel caso non vi fossero risultati la notifiva 
+avviene attraverso una striscia con la scritta *No Results*.
+
+### Conclusione
+Sicuramente **cplusplus.com** è pensato per dare il massimo supporto alla 
+navigazione nella sezione *Reference*, a discapito degli altri servizi. Scelta
+comprensibile essendo che il sito è principalmente usato per la consultazione 
+della documentazione. 
+
+Tuttavia anche la sezione *Reference* è colpita dalla pochezza dell'asse *when*,
+quindi non raggiunge una perfetta usabilità.
+
+Buona la ricerca attraverso il tool di google ma sarebbe da eliminare il redirect
+diretto alla pagina del *Reference* che non aggiunge molto.
+
 
 

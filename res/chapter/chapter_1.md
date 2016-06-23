@@ -230,5 +230,41 @@ quindi non raggiunge una perfetta usabilità.
 Buona la ricerca attraverso il tool di google ma sarebbe da eliminare il redirect
 diretto alla pagina del *Reference* che non aggiunge molto.
 
+## Pubblicità
+### Premesse
+La pubblicità è un'arma a doppio taglio: può essere fonto di guadagno per il 
+sito ma se non ben gestita può causere un crollo sull'usabilità.
 
+### Aspettative
+Essendo presente nel sito è bene controllare che non sia invadente e lascia
+spazio alla lettura.
 
+### Valutazione
+La pubblicità è posizionata nelle pagine interne della sezione *Reference* in
+due punti: in alto nella colonna centrale ed in basso nella colonna laterale a 
+sinitra; e nella lista dei risultati attraverso la barra di ricerca.
+
+Nota positiva per le prime due che non sono invasive durante la lettura e 
+propongono di default pubblicità di prodotti per lo sviluppo software o 
+componentistica per il computer. Inoltre la seconda inserzione usa lo stesso 
+stile degli altri riquadri presenti nella colonna di sinitra, creando un effetto
+*blending* davvero eccelente. Quindi: vi è l'uso della *behavior advertisment* e 
+le inserzioni cercano di camuffarsi come contenuto della pagina.
+ 
+Peccato che dopo la navigazione in altri siti questi effetti sono **spariti**
+ritornando ad inserzioni pubblicitarie che sono vittime dell'effetto *zapping* 
+dell'utente. 
+
+Inoltre la scelta del posizionamento non è delle migliori. La colonna centrale
+può andare ma l'inserzione nella colonna di navigazione a sinistra, visualizzata
+come ultimo riquadro, praticamente non verrà mai selezionata dall'utente. Sarebbe
+stato meglio metterla in cima, garantendosi la migliore posizione nella pagina 
+web.
+
+L'ultima inserzione, quella nella lista dei risultati di ricerca, è invece
+messa molto in evidenza e, per l'effetto zapping, risulta poco efficacie.
+
+### Conclusione
+La pubblicità in **cplusplus.com** parte con basi ottime ma mantiente 
+**inalterato** il livello di usabilità e, per i difetti elencati sopra, **non 
+risultà** efficacie.

@@ -48,8 +48,10 @@ generali.
 
 Tuttavia queste informazioni vengono posizionate sotto un paragrafo descrittivo
 della classe che, a causa dei difetti evidenziate nella sezione *Testo*, non 
-aiuta l'utente nella fase di *scanning*. Sarebbe stato meglio metterle in cima
-alla pagina e poi sotto inserire la sua descrizione.
+aiuta l'utente nella fase di *scanning*. Sarebbe stato meglio mettere le 
+informazioni in cima alla pagina e poi sotto inserire la sua descrizione, 
+risparmiando tempo e scroll della pagina.
+
 
 ![http://www.cplusplus.com/reference/array/array/](../img/page_array.png
 "Pagina array di *cplusplus.com*")

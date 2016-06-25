@@ -3,6 +3,9 @@ In questa sezione analizzeremo una pagina della sezione *Reference* del sito
 **cplusplus.com** in quanto seguono la stessa struttura cambiando solo il 
 contentenuto.
 
+![http://www.cplusplus.com/reference/array/array/](../img/page_array.png
+"Pagina array di *cplusplus.com*")
+
 A causa del fenomeno di *Deep linkig* è necessario che rispetti alcuni assi 
 informativi per non generare **smarrimento** all'utente, catapultato in questa
 pagina senza passare per la home page.
@@ -51,6 +54,3 @@ della classe che, a causa dei difetti evidenziate nella sezione *Testo*, non
 aiuta l'utente nella fase di *scanning*. Sarebbe stato meglio mettere le 
 informazioni in cima alla pagina e poi sotto inserire la sua descrizione, 
 risparmiando tempo e scroll della pagina.
-
-![http://www.cplusplus.com/reference/array/array/](../img/page_array.png
-"Pagina array di *cplusplus.com*")

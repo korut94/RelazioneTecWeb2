@@ -1,5 +1,5 @@
 # Reference
-In questo capito analizzeremo una pagina della sezione *Reference* del sito 
+In questa sezione analizzeremo una pagina della sezione *Reference* del sito 
 **cplusplus.com** in quanto seguono la stessa struttura cambiando solo il 
 contentenuto.
 

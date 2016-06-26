@@ -14,7 +14,11 @@ node_modules/
 *.pdf
 *.zip
 relazione/
+cover.jpg
 
 # Gitbook
 _book/
+_assets
 
+# Aspell
+*.md.bak

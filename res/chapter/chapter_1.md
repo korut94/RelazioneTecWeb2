@@ -24,7 +24,7 @@ Altro punto da considerare è la distribuzione del testo all'interno pagine:
 blocchi fini di testo produrranno, durante la fase di "scanning" svolta dall'
 utente, una *mappa mentale* dell'informazione della pagina più accurata,
 garantendo una maggior velocità di ritrovamento del contenuto interessante;
-al contrario, blocchi compatti impedisco la creazione di assiociazioni e perciò 
+al contrario, blocchi compatti impedisco la creazione di associazioni e perciò 
 la ricerca risulterà più lenta e faticosa.
 
 ### Aspettative
@@ -44,8 +44,8 @@ reso di più e sarebbe migliorata la lettura dei blocchi di testo.
 
 **Non** è presente alcuna forma di selezione del font. L'assenza di modifica del
 tipo è accettabile, data la tipologia d'utenza, anche se un'opzione per l'
-ingrandimento del testo sarebbe dovuta essere presente, soprattuto alla luce di
-qaunto detto sopra. 
+ingrandimento del testo sarebbe dovuta essere presente, sopratutto alla luce di
+quanto detto sopra. 
 
 Nel sito web i testi vengono sempre trascritti con colore nero su sfondo bianco,
 ottenendo il massimo del contrasto.
@@ -66,7 +66,7 @@ in fianco a sinistra garantiscono altissima usabilità.
 Dall'analisi è emerso un problema per quanto riguarda la dimensione del font 
 che causerà una **probabile diminuzione** d'efficacia della *mappa mentale*, 
 prodotta dall'utente nella fase di "scanning" del sito, ed uno sforzo superiore
-durante la lettura. Con l'inserimento di un menu per la modifica del carattere
+durante la lettura. Con l'inserimento di un menù per la modifica del carattere
 si sarebbe potuto evitare questo problema.
 
 Per il resto **soddisfa** le aspettative, scegliendo un font unico ad alta 
@@ -92,7 +92,7 @@ default nel caso d'immagini superiori alla taglia 210x230 px, come ad esempio
 la visualizzazione a pieno schermo. 
 
 Le icone usate in varie parti del sito sono molto semplici e ben fatte, però
-bisogna verificare la loro effettivà chiarezza di significato.
+bisogna verificare la loro effettiva chiarezza di significato.
 
 Tuttavia il giudizio sulla gestione delle immagini non peserà sulla 
 valutazione finale dato il loro ruolo marginale.
@@ -104,7 +104,7 @@ Per quanto riguarda le immagini presenti nei testi, soprattutto nella sezione
 Sono da segnalare due icone che causano l'effetto della *metafora visiva 
 tradita*: un'icona indica che un'eventuale funzionalità è stata introdotta
 con *C++11*, e i vecchi compilatori potrebbero non supportarla; l'altra viene 
-usata nei menu sul lato destro per ordinare le voci presenti in ordine 
+usata nei menù sul lato destro per ordinare le voci presenti in ordine 
 alfabetico se cliccata.
 
 Nel primo caso l'icona appare come un triangolo giallo di attenzione con 
@@ -114,7 +114,7 @@ vuole esprimere, anzi, può portare a conclusioni errate.
 La seconda icona non è immediato capire cosa rappresenti e costringe l'utente
 a cliccarci sopra, sempre se la cliccherà, per capire cosa fa.
 
-Il resto delle icone appaiono chiare e ben contestualizzate, arricchiendo la
+Il resto delle icone appaiono chiare e ben contestualizzate, arricchendo la
 grafica del sito senza incombere in *bloated design*.
 
 ### Conclusione
@@ -155,7 +155,7 @@ Sarà interessante vedere com'è implementata la barra di ricerca che può dare 
 sicuro valore aggiunto a questa tipologia di sito.
 
 Non mi aspetto problemi dal *back button* lasciando libero l'utente di tornare
-indetro da ogni pagina. 
+indentro da ogni pagina. 
 
 Infine, dovrebbe essere presente una pagina *404* da avvisare l'utente in caso
 di *broken link*.
@@ -166,7 +166,7 @@ dall'immagine dell'homepage del sito di **cplusplus.com**, nel riquadro centrale
 è possibile vedere la lista delle sezioni offerte con una relativa descrizione.
 
 Funzionale all'asse *what* è il layout: ottima la scelta di usare il tipo a griglia in
-modo da visualizzare l'intera pagina senza neccessità di scroll. Questa scelta
+modo da visualizzare l'intera pagina senza necessità di scroll. Questa scelta
 impone all'utente maggior sforzo, rispetto ad un layout a lista, ma 
 l'eliminazione dello scroll verticale è sicuramente da preferire.
 
@@ -182,7 +182,7 @@ ricordarsi quali pagine ha già visitato, la quale creerebbe **malumore** dato
 lo sforzo eccessivo. 
 
 Tuttavia, **cplusplus.com** fa parte del 25% dei siti web che **non adotta** 
-questa tecnina, lasciano il colore dei link invariato anche dopo averlo 
+questa tecnica, lasciano il colore dei link invariato anche dopo averlo 
 visitato.
 
 Per quanti riguarda i *broken link*, il sito propone una propria pagina *404* 
@@ -195,28 +195,28 @@ Appropriata la presenza di spiegazioni su cosa fare in base a come si è
 raggiunto lo stato 404, dando un notevole supporto all'utente. 
 
 L'asse *why* è legato alle descrizione in ogni servizio, ma non vi sono mai 
-rifirimenti espliciti ad effettivi vantaggi.
+riferimenti espliciti ad effettivi vantaggi.
 
 Non è chiaro se il sito rappresenti un ente privato o un'organizzazione, quindi
 l'asse *who* non si può dire soddisfatto.
 
 Oltre ai link interni alle sezioni in ogni riquadro della scheda centrale, è 
-possibile usare il menu nel lato sinitro con i link a tutte le sezioni. In
+possibile usare il menù nel lato sinistro con i link a tutte le sezioni. In
 questo modo l'asse *how* è pienamente soddisfatto.
 
-![http://www.cplusplus.com/](../img/homepage.png "Home page di cplusplus.com")
+![http://www.cplusplus.com/](../img/homepage.png "homepage di cplusplus.com")
 
 L'ultimo asse, *when*, è stato **completamente trascurato**: non vi è presenza 
 né nella homepage né nelle pagine interne di alcun sistema per ottenere le 
 novità del sito. Data la presenza di un **forum** ed una sezione **articoli**,
 oltre che del **reference**, non è trascurabile una mancanza di questo genere
-il che ne consegue una grossa perdità d'usabilità.
+il che ne consegue una grossa perdita d'usabilità.
 
 Provando il bottone indietro del browser in varie pagine **non sono apparsi** 
 casi di comportamenti anomali assicurando un gradimento maggiore all'utente.
 
 Concludo con un'analisi sulla barra di ricerca. Come si può vedere in figura
-la presenza di **due** barre di ricerca nell'home page non può altro che 
+la presenza di **due** barre di ricerca nell'homepage non può altro che 
 generare confusione. Infatti provandole entrambe il risultato è identico:
 * se la keyword cercata fa parte delle voci nel *Reference* si viene subito
   reindirizzati li nel reference;
@@ -227,7 +227,7 @@ questo comportamento è utile ma **non segue gli standard** dei motori di
 ricerca classici, generando una frustrazione iniziale agli utenti.
 Come soluzione, nella pagina in cui si è arrivati, viene inserito un link per 
 tornare alla lista dei risultati del motore di ricerca. Tuttavia, cosi facendo 
-l'utente spreca tempo e click per un'agevolazione non richieta.
+l'utente spreca tempo e click per un'agevolazione non richiesta.
 
 Quando compare la lista dei risultati scopriamo che il servizio di ricerca usa
 il modulo offerto da Google per i siti web. 
@@ -236,11 +236,11 @@ Il sistema funziona egregiamente per via della popolarità del sito, ma
 può incombere nei problemi dell'uso di queste soluzioni a basso costo, come la
 non copertura totale delle pagine, soprattutto nelle sezioni al di fuori di
 *Reference* che sono meno cercate. Le opzioni di ricerca si limitano a 
-specifiare dove effettuare la ricerca: o in tutto il sito, o solo in *Reference*,
+specificare dove effettuare la ricerca: o in tutto il sito, o solo in *Reference*,
 o solo in *Forum* o solo in *Articles*.
 
 Il risultato appare in forma di lista, come la pagina di Google, e
-quindi è familiare all'utente. Nel caso non vi fossero risultati la notifiva 
+quindi è familiare all'utente. Nel caso non vi fossero risultati la notifica 
 avviene attraverso una striscia con la scritta *No Results*.
 
 ### Conclusione
@@ -253,13 +253,13 @@ Tuttavia il sito è globalmente penalizzato per via della mancanza
 d'informazioni relative all'asse *when* e la scelta di non colorare i link già
 visitati.
 
-Buona la ricerca attraverso il tool di google ma sarebbe da eliminare il redirect
+Buona la ricerca attraverso il tool di Google ma sarebbe da eliminare il redirect
 diretto alla pagina del *Reference* che non aggiunge molto.
 
 ## Pubblicità
 ### Premesse
-La pubblicità è un'arma a doppio taglio: può essere fonto di guadagno per il 
-sito ma se non ben gestita può causere un crollo sull'usabilità.
+La pubblicità è un'arma a doppio taglio: può essere fonte di guadagno per il 
+sito ma se non ben gestita può causare un crollo sull'usabilità.
 
 ### Aspettative
 Essendo presente nel sito è bene controllare che non sia invadente e che lasci
@@ -268,12 +268,12 @@ spazio alla lettura.
 ### Valutazione
 La pubblicità è posizionata nelle pagine interne della sezione *Reference* in
 due punti: in alto nella colonna centrale ed in basso nella colonna laterale a 
-sinitra; e nella lista dei risultati attraverso la barra di ricerca.
+sinistra; e nella lista dei risultati attraverso la barra di ricerca.
 
 Nota positiva per le prime due che non sono invasive durante la lettura e 
 propongono di default pubblicità inerenti al tema trattato nel sito. Inoltre la
 seconda inserzione usa lo stesso stile degli altri riquadri presenti nella 
-colonna di sinitra, creando un effetto *blending* davvero eccelente.
+colonna di sinistra, creando un effetto *blending* davvero eccellente.
  
 Peccato che dopo la navigazione in altri siti questi effetti **spariscono**
 ritornando ad inserzioni pubblicitarie che causano il *distraction effect*. 

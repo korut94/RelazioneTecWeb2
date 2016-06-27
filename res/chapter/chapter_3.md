@@ -11,7 +11,7 @@ riga vi sono il titolo dell'articolo, la data di pubblicazione e la valutazione
 complessiva espressa dagli utenti attraverso un numero di stelle, da 1 a 5.
 
 Questo tipo di layout funziona e non si è afflitti dal problema del 
-*random walk*.
+*random talk*.
 
 E' possibile ordinare la lista degli articoli per data o per valutazione,
 cliccando sull'icona a fianco della voce desiderata, rimanendo in linea
@@ -58,7 +58,7 @@ modifiche, ma gli assi *what* e *where* sono peggiorati:
   categorie dell'articolo e non vi è traccia di un riquadro in cui vengono
   trascritte;
 * mentre nella sezione *Reference* erano chiari gli altri servizi listati nella
-  colonna di sinitra, ora proprio il collegamento a *Reference* perde di 
+  colonna di sinistra, ora proprio il collegamento a *Reference* perde di 
   significato. Non è intuibile che in quella sezione venga proposta la 
   documentazione per le classi ed i metodi offerti dalla *STD*, obbligando 
   l'utente o ad un *gambling click* o ad andare alla homepage;

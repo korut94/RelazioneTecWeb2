@@ -1,4 +1,4 @@
-# Introduzione [![Build Status](https://travis-ci.org/korut94/RelazioneTecWeb2.svg?branch=master)](https://travis-ci.org/korut94/RelazioneTecWeb2)
+# Introduzione
 Questo documento ha lo scopo di riportare l'analisi compiuta sul sito
 [cplusplus.com](http://www.cplusplus.com/) condotta dallo studente *Andrea 
 Mantovani*.
@@ -54,7 +54,8 @@ ricerca interna ed il template della pagina di un articolo.
 Salterò le sezioni *Forum*, *Tutorial* ed *Information* in quanto, per me, non 
 sono elementi di grande interesse per l'utente.
 
-## Licenza
+### Licenza
 Quest'opera è distribuita con Licenza [Creative Commons Attribuzione - 
 Non commerciale - Condividi allo stesso modo 4.0 Internazionale](http://
 creativecommons.org/licenses/by-nc-sa/4.0/).
+

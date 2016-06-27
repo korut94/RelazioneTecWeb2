@@ -18,6 +18,7 @@ cover.jpg
 
 # Gitbook
 _book/
+_assets
 
 # Aspell
 *.md.bak

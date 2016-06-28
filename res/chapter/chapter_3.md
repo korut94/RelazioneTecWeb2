@@ -3,9 +3,6 @@ In quest'ultima sezione analizzerò la pagina iniziale di *Articles* ed un sua
 pagina interna.
 
 ## Pagina iniziale
-![http://www.cplusplus.com/articles/?by=scoredesc](../img/articles.png 
-"Pagina di elenco degli articoli creati")
-
 L'insieme degli articoli pubblicati è mostrato sotto forma di tabella. Su ogni
 riga vi sono il titolo dell'articolo, la data di pubblicazione e la valutazione 
 complessiva espressa dagli utenti attraverso un numero di stelle, da 1 a 5.
@@ -42,18 +39,18 @@ risultati, trovarlo scorrendo il set di pagine.
 Una pratica simile, in un sito che contiene più di **200** articoli, è 
 completamente da **bocciare**.
 
+![http://www.cplusplus.com/articles/?by=scoredesc](../img/articles.png 
+"Pagina di elenco degli articoli creati")
+
+<div style="page-break-after: always;"></div>
+
 ## Pagina articolo
-![http://www.cplusplus.com/articles/y3TbqMoL/](../img/isitqt.png 
-"Pagina di un articolo")
+Discuterò di una sola pagina presa come **campione** essendo che, analogamente
+a come accade nel *Reference*, la struttura delle pagine rimane invariato 
+cambiando solo il contenuto interno.
 
-Le pagine degli articoli sono creati direttamente dagli utenti registrati,
-perciò non discuterò sul loro contenuto interno ma come queste non rispondano 
-più in maniera efficacie all'asse *where* ed al *what*.
-
-Il problema è il layout, rimasto invariato nelle pagine degli articoli.
-
-Questo comporta che assi come *who*, *when*, *how* e *why* non hanno subito 
-modifiche, ma gli assi *what* e *where* sono peggiorati:
+La pagina mantiene inalterata assi come *who*, *when*, *how* e *why*, ma 
+peggiora gli assi *what* e *where*, essendo che:
 * il *breadcrumb* di tipo *location* non gestisce l'appartenenza a più 
   categorie dell'articolo e non vi è traccia di un riquadro in cui vengono
   trascritte;
@@ -67,4 +64,9 @@ Il risultato è la rimozione d'informazioni interessanti per l'utente. Oltre a
 questo, la colonna di navigazione offre solo la possibilità di andare nella 
 selezione degli articoli di una particolare categoria.
 
+Questi problemi nascono dall'**inalterazione** del layout della pagina, il quale
+non risponde alle nuove esigenze dell'utente.
+
+![http://www.cplusplus.com/articles/y3TbqMoL/](../img/isitqt.png 
+"Pagina di un articolo")
 

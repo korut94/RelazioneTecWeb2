@@ -13,7 +13,6 @@ node_modules/
 # Relation publish
 *.zip
 relazione/
-cover.jpg
 
 # Gitbook
 _book/

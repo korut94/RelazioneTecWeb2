@@ -43,7 +43,7 @@ con un ingrandimento del testo, ad esempio di uno due punti, il sito avrebbe
 reso di più e sarebbe migliorata la lettura dei blocchi di testo.
 
 **Non** è presente alcuna forma di selezione del font. L'assenza di modifica del
-tipo è accettabile, data la tipologia d'utenza, anche se un'opzione per l'
+tipo è accettabile, data la tipologia d'utenza, ma un'opzione per l'
 ingrandimento del testo sarebbe dovuta essere presente, sopratutto alla luce di
 quanto detto sopra. 
 
@@ -192,7 +192,9 @@ cercata.
 ![http://www.cplusplus.com/404.html](../img/404.png "Pagina 404")
 
 Appropriata la presenza di spiegazioni su cosa fare in base a come si è 
-raggiunto lo stato 404, dando un notevole supporto all'utente. 
+raggiunto lo stato 404, dando un notevole supporto all'utente. Peccato per l'uso
+di uno stile serio che non permette il rilassamento dei timer degli utenti,
+come accade in presenza di testi ed immagini ironici e divertenti.
 
 L'asse *why* è legato alle descrizione in ogni servizio, ma non vi sono mai 
 riferimenti espliciti ad effettivi vantaggi.
@@ -203,8 +205,6 @@ l'asse *who* non si può dire soddisfatto.
 Oltre ai link interni alle sezioni in ogni riquadro della scheda centrale, è 
 possibile usare il menù nel lato sinistro con i link a tutte le sezioni. In
 questo modo l'asse *how* è pienamente soddisfatto.
-
-![http://www.cplusplus.com/](../img/homepage.png "homepage di cplusplus.com")
 
 L'ultimo asse, *when*, è stato **completamente trascurato**: non vi è presenza 
 né nella homepage né nelle pagine interne di alcun sistema per ottenere le 
@@ -242,6 +242,8 @@ o solo in *Forum* o solo in *Articles*.
 Il risultato appare in forma di lista, come la pagina di Google, e
 quindi è familiare all'utente. Nel caso non vi fossero risultati la notifica 
 avviene attraverso una striscia con la scritta *No Results*.
+
+![http://www.cplusplus.com/](../img/homepage.png "Homepage di cplusplus.com")
 
 ### Conclusione
 Sicuramente **cplusplus.com** è pensato per dare il massimo supporto alla 

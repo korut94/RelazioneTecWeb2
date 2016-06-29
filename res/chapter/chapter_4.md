@@ -1,8 +1,7 @@
 # Conclusione
 Il sito **cplusplus.com** possiede vari elementi di spicco ma è generalmente
 studiato per favorire la sezione *Reference*, lasciando le altre con un layout
-che non permette di garantire una sufficiente usabiltità. Inoltre mancano 
-alcuni 
+che non permette di garantire una sufficiente usabiltità.
 
 **Voto finale**: 6.5
 
